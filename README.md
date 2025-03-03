@@ -18,9 +18,6 @@ Zerly is an AI-powered conversation training app designed to help users develop 
 - **Backend**: Node.js, Express, Firebase (or PostgreSQL for long-term data storage)
 - **AI Model**: OpenAI GPT-4o for conversation generation and feedback analysis
 - **Deployment**: Vercel (frontend), Firebase Functions or AWS (backend)
-  ```
-
-  ```
 
 ## Usage
 
